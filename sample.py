@@ -14,7 +14,7 @@ from google.oauth2 import service_account
 
 SCOPES = ['https://www.googleapis.com/auth/drive']
 SERVICE_ACCOUNT_FILE = 'service_account.json'
-PARENT_FOLDER_ID = "1xbz6eR3dcs7wK4R7Suapz8hYMx8X3SV6" #id at the end of url when opened the drive folder
+PARENT_FOLDER_ID = " " #id at the end of url when opened the drive folder
 
 
 def authenticate():
